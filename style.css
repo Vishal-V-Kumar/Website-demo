@@ -1,0 +1,87 @@
+.image{
+    max-width: 52%;
+    display: block;
+    margin: auto;
+    padding: 2rem;
+    padding-top: 4.5rem;
+}
+
+.companyname{
+    padding: 2rem;
+    margin: auto;
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+
+.main-nav{
+    display: flex;
+    justify-content: center;
+}
+.main-nav{
+    margin-top: 5px;
+    padding: 10px 15px;
+	text-transform: uppercase;
+}
+
+ul{
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.6;
+	margin: 0 auto;
+	min-height: 100vh;
+}
+
+a {
+	color: #34495e;
+}
+
+a {
+	text-decoration: none;
+}
+
+.main-nav a {
+	padding: 10px 15px;
+	text-transform: uppercase;
+}
+
+.main-nav a {
+	color: #34495e;
+	font-size: .99em;
+}
+
+.main-nav a:hover {
+	color: #85099e;
+}
+
+.nav-bar{
+    padding-top: .5em;
+	padding-bottom: .5em;
+	border: 1px solid #a2a2a2;
+	background-color: #f4f4f4;
+	box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+	
+}
+
+.links {
+   display: inline-block;
+   text-align: center;
+   padding: 14px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.links:hover {
+   background-color: rgb(202, 202, 202);
+   border-radius: 25px;
+}
+
+#navbar{
+    transition: 0.5s;
+}
